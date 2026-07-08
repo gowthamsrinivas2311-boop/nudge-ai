@@ -140,4 +140,4 @@ This project uses Twilio's WhatsApp Sandbox for demo purposes, which allows anyo
 
 ---
 
-## Built for [Hackathon Name] — [Date]
+## Built for Takeover 2026 — July 8, 2026
